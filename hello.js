@@ -17,3 +17,6 @@ function fun9898() {
 function fun4() {
     console.log('测试4')
 }
+function zql() {
+    console.log('lll')
+}
