@@ -5,3 +5,6 @@ function fun() {
 }
 let a = "123"
 console.log(a)
+function fun3() {
+    console.log('测试3')
+}
