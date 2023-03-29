@@ -11,3 +11,6 @@ function fun2() {
 function fun3() {
     console.log('测试3')
 }
+function fun4() {
+    console.log('测试4')
+}
