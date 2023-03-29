@@ -5,4 +5,6 @@ function fun() {
 }
 let a = "123"
 console.log(a)
-
+function fun2() {
+    console.log('猪猪侠')
+}
