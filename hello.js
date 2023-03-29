@@ -20,3 +20,6 @@ function fun4() {
 function fun123() {
     console.log('测试4')
 }
+function fun99999() {
+    console.log('喜羊羊')
+}
