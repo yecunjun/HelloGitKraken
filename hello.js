@@ -5,12 +5,9 @@ function fun() {
 }
 let a = "123"
 console.log(a)
-<<<<<<< HEAD
 function fun2() {
     console.log('猪猪侠')
 }
-=======
 function fun3() {
     console.log('测试3')
 }
->>>>>>> main
