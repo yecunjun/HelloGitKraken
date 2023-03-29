@@ -14,3 +14,6 @@ function fun3() {
 function fun9898() {
     console.log('测试9899')
 }
+function fun4() {
+    console.log('测试4')
+}
