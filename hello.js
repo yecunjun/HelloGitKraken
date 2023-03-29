@@ -28,5 +28,5 @@ function fun99999() {
 }
 
 function fun9123() {
-    console.log('懒羊羊')
+    console.log('懒羊羊,沸羊羊')
 }
