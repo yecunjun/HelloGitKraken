@@ -17,11 +17,3 @@ function fun9898() {
 function fun4() {
     console.log('测试4')
 }
-<<<<<<< HEAD
-function zql() {
-    console.log('lll')
-=======
-function fun123() {
-    console.log('喜洋洋')
->>>>>>> main
-}
