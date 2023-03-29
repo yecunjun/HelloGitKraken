@@ -20,3 +20,6 @@ function fun4() {
 function fun123() {
     console.log('测试4')
 }
+function test1() {
+    console.log('测试')
+}
