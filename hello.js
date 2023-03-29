@@ -17,11 +17,6 @@ function fun9898() {
 function fun4() {
     console.log('测试4')
 }
-<<<<<<< HEAD
 function fun123() {
     console.log('测试4')
-=======
-function fun5() {
-    console.log('测试5')
->>>>>>> main
 }
