@@ -21,7 +21,7 @@ function fun123() {
     console.log('测试4')
 }
 function test1() {
-    console.log('测试1')
+    console.log('测试10086')
 }
 function fun99999() {
     console.log('喜羊羊')
