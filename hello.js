@@ -26,3 +26,6 @@ function test1() {
 function fun99999() {
     console.log('喜羊羊')
 }
+function fun9123() {
+    console.log('懒羊羊')
+}
